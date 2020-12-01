@@ -23,7 +23,7 @@ We use imaging-based biophysical airway tree and ventilation model to simulate a
 Requirements
 ------------
 
-|uncheck| Python 3.6
+|uncheck| - [ ] Python 3.6
 
 |uncheck| Virtual enviornment
 
